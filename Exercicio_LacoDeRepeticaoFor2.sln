@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_LacoDeRepeticaoFor2", "Exercicio_LacoDeRepeticaoFor2.csproj", "{396B8C15-227D-452E-90AC-5E7C43BC832D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{396B8C15-227D-452E-90AC-5E7C43BC832D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396B8C15-227D-452E-90AC-5E7C43BC832D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396B8C15-227D-452E-90AC-5E7C43BC832D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396B8C15-227D-452E-90AC-5E7C43BC832D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88DC9299-7B4F-4EF1-A110-56B8C4F74450}
+	EndGlobalSection
+EndGlobal
