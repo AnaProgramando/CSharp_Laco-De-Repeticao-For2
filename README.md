@@ -1,4 +1,4 @@
-# CSharp_Laço de Repeticao For
+# CSharp_Laço de Repeticao For - Tabuada de 0 a 10
 
 Olá, seja muito bem vinda(o)!
 
